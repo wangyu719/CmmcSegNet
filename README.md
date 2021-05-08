@@ -7,7 +7,7 @@ Pytorch >=0.8 <br>
 torchvision <br>
 python>=3.6 <br>
 
-##References
+## References
 Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio." Generative Adversarial Networks."  ArXiv 2014.
 
 
